@@ -1,7 +1,7 @@
 Package.describe({
   name: "kevbuk:moment-range",
   summary: "Fancy date ranges for Moment.js packaged for Meteor.",
-  version: "2.2.1",
+  version: "2.2.2",
   git: "https://github.com/kevb/meteor-moment-range"
 });
 
