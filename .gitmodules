@@ -1,3 +1,3 @@
 [submodule "lib/moment-range"]
 	path = lib/moment-range
-	url = https://github.com/gf3/moment-range
+	url = git://github.com/gf3/moment-range.git
