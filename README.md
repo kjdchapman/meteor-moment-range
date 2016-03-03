@@ -3,7 +3,7 @@
 Installation
 -------------
 
-`mrt add moment-range`
+`meteor add kevb:moment-range`
 
 Usage
 -------------
