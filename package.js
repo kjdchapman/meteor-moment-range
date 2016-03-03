@@ -8,5 +8,5 @@ Package.describe({
 Package.on_use(function (api, where) {
   where = where || ['client', 'server'];
   api.use('momentjs:moment@2.11.2', where);
-  api.add_files('lib/moment-range/lib/moment-range.js', where);
+  api.add_files('lib/moment-range/lib/moment-range.bare.js', where);
 });
